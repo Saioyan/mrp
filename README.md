@@ -7,7 +7,7 @@ http_proxy=""
 https_proxy=""
 
 下載更新必需套件
-
+https://github.com/Saioyan/mrp/blob/master/install.txt
 
 
 
