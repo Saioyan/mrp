@@ -18,11 +18,16 @@ https://github.com/Saioyan/mrp/blob/master/renamefa.py
 https://github.com/Saioyan/mrp/blob/master/trimOverlapseq.py
 https://github.com/Saioyan/mrp/blob/master/v_filter.py
 
+使用方法\
+進入medaka環境\
+. /saioyan/tools/medaka/venv/bin/activate\
+執行mrp_v3.py\
+mrp_v3.py Illumina_data_R1.fastq Illumina_data_R2.fastq reads.fastq
 
-
-
-
-
+Output file\
+雙套體序列\
+hap1.fasta\
+hap2.fasta
 
 
 
