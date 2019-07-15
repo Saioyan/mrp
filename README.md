@@ -3,7 +3,7 @@
 使用前設定以及安裝
 
 設定export\
-http_proxy=""
+http_proxy=""\
 https_proxy=""
 
 下載更新必需套件\
