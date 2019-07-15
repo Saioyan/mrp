@@ -25,11 +25,8 @@ cleanfq.py barcode01.fastq.gz barcode01.txt \
 GetFastqgz.py -i barcode01_clean.txt -q barcode01_clean.fastq -t 1200000000 -o 自訂目錄
 
 
-
-
-
 組裝\
-smartdenovo.pl -c 1 reads.fastq > wtasm.mak
+smartdenovo.pl -c 1 reads.fastq > wtasm.mak\
 make -f wtasm.mak
 
 mrp_v3.py使用方法\
